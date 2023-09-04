@@ -1,6 +1,10 @@
-### Hi there 👋
+## Hi
+### Im currently just working on javascript...
+###### I need to beautify my readme
 
-<!--
+
+<!--### Hi there 👋
+
 **Pacees/Pacees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
